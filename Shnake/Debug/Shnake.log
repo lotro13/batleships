@@ -1,0 +1,17 @@
+﻿  pch.cpp
+  AI.cpp
+g:\c++\shnake\shnake\ai.cpp(15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  GUI.cpp
+g:\c++\shnake\shnake\gui.cpp(67): warning C4018: '<': signed/unsigned mismatch
+  Shnake.cpp
+  captain.cpp
+g:\c++\shnake\shnake\captain.cpp(13): warning C4018: '<': signed/unsigned mismatch
+g:\c++\shnake\shnake\captain.cpp(14): warning C4018: '<': signed/unsigned mismatch
+g:\c++\shnake\shnake\captain.cpp(18): warning C4018: '<': signed/unsigned mismatch
+  console.cpp
+  field.cpp
+  game.cpp
+  player.cpp
+  preview.cpp
+  Generating Code...
+  Shnake.vcxproj -> G:\C++\Shnake\Debug\Shnake.exe
